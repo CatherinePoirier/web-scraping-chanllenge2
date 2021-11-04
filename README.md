@@ -13,7 +13,7 @@ Then moved that code to a .py file using visual studio.
 
 ## Tools Used
 
-Jupyter Notebook, Python, Pandas, pymongo, flask, Visual Studio, HTML, CSS, GitBash terminal, Git Hub
+Jupyter Notebook, Python, Pandas, pymongo, flask, Visual Studio, HTML, CSS, GitBash terminal, Git Hub, beautifulsoup, splinter
 
 ## Screen Shots
 ![](Mission_to_Mars/ScreenShot_Mission_To_Mars_1.png)
