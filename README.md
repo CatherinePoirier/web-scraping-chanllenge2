@@ -10,4 +10,5 @@ I also created an .html file to create the website and a scrape file to make the
 There are .png files of photos of the final web page.
 
 ![](Mission_to_Mars/ScreenShot_Mission_To_Mars_2.png)
+![](Mission_to_Mars/Screenshot_Mission_To_Mars_3.png)
 
