@@ -9,5 +9,5 @@ I also created an .html file to create the website and a scrape file to make the
 
 There are .png files of photos of the final web page.
 
-! {} (/blob/main/Mission_to_Mars/ScreenShot_Mission_To_Mars_2.png)
+! {} (Mission_to_Mars/ScreenShot_Mission_To_Mars_2.png)
 
