@@ -7,7 +7,7 @@ the Mission to Mars and displays the information in a single HTML page.
 ## Description 
 
 I created a jupyter notebook with the scraping code and tested it there. I also created an .html file to create the website and a scrape file to make the calls.
-Wrote Scripts to collects the lates News Titles and Text, featured Mars Image, and and latest weather.
+Wrote several Scripts to scrape websites and collected the lates News Titles and Text, featured Mars Image, the latest weather and Facts about the planet, and images of each Mars' hemispheres.
 Then moved that code to a .py file using visual studio.
 
 
@@ -16,6 +16,7 @@ Then moved that code to a .py file using visual studio.
 Jupyter Notebook, Python, Pandas, pymongo, flask, Visual Studio, HTML, CSS, GitBash terminal, Git Hub
 
 ## Screen Shots
+![](Mission_to_Mars/ScreenShot_Mission_To_Mars_1.png)
 
 ![](Mission_to_Mars/ScreenShot_Mission_To_Mars_2.png)
 ![](Mission_to_Mars/Screenshot_Mission_To_Mars_3.png)
