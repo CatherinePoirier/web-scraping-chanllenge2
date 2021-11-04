@@ -1,11 +1,21 @@
-# web-scraping-chanllenge2
+# web-scraping-challenge2
 
-
-I built a web application that scrapes various websites for data related to 
+## Summary
+A flask web application that scrapes various websites for data related to 
 the Mission to Mars and displays the information in a single HTML page.
-I created a jupyter notebook with the scraping code and tested it there.
+
+## Description 
+
+I created a jupyter notebook with the scraping code and tested it there. I also created an .html file to create the website and a scrape file to make the calls.
+Wrote Scripts to collects the lates News Titles and Text, featured Mars Image, and and latest weather.
 Then moved that code to a .py file using visual studio.
-I also created an .html file to create the website and a scrape file to make the calls.
+
+
+## Tools Used
+
+Jupyter Notebook, Python, Pandas, pymongo, flask, Visual Studio, HTML, CSS, GitBash terminal, Git Hub
+
+## Screen Shots
 
 ![](Mission_to_Mars/ScreenShot_Mission_To_Mars_2.png)
 ![](Mission_to_Mars/Screenshot_Mission_To_Mars_3.png)
